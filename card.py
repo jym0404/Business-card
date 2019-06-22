@@ -20,7 +20,3 @@ class Card:
         f.write("phone:" + self.phone + "\n")
         f.write("E - mail:" + self.email + "\n")
         f.write("---------------------------")
-"""if __name__ == "__main__":
-    yumin = Card("yumin", "010-4198-4019", "jym090404@naver.com")
-    yumin.info()
-    yumin.write_info("test.txt", "D:\\py")"""
